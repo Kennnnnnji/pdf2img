@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# OMC
+.omc/
+
+# 生成的预览图
+icon_preview.png
